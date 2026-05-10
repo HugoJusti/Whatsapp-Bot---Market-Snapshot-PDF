@@ -114,7 +114,7 @@ Useful for iterating on the PDF layout.
 
 ## PDF Screenshot
 
-*(Add a screenshot of the generated PDF here after first run)*
+
 
 ---
 

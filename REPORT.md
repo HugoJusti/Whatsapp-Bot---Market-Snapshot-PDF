@@ -17,23 +17,7 @@ The goal of this project is to automate that workflow: a user sends a single Wha
 
 ### Architecture
 
-```
-User sends /report
-        │
-        ▼
-whatsapp.py  ──── Playwright polls WhatsApp Web ────── detects command
-        │
-        ▼
-data.py      ──── yfinance ──────────────────────────── 10 × HTTP requests
-        │
-        ▼
-pdf_gen.py   ──── ReportLab canvas ─────────────────── draws dark PDF
-             │
-             └── Matplotlib ──────────────────────────── embeds charts/sparklines
-        │
-        ▼
-whatsapp.py  ──── Playwright ────────────────────────── attaches + sends PDF
-```
+
 
 ### Tool Choices
 
