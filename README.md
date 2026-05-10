@@ -36,10 +36,20 @@ playwright install chromium
 
 ### 3. Configure environment
 
-```bash
-cp .env.example .env
-# Edit .env if needed — defaults point to the test number already set
+Create a file called `.env` in the project root with the following contents:
+
+```env
+# WhatsApp number to send reports to (include country code, no spaces)
+WA_RECIPIENT=+1234567890
+
+# Directory where the Playwright browser session is persisted
+SESSION_DIR=./wa_session
+
+# Directory where generated PDF reports are saved
+OUTPUT_DIR=./output
 ```
+
+Replace `+1234567890` with the actual phone number you want the bot to message. The `SESSION_DIR` and `OUTPUT_DIR` values can be left as-is.
 
 ### 4. First-time QR scan
 
