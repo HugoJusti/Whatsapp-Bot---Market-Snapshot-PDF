@@ -17,7 +17,7 @@ The goal of this project is to automate that workflow: a user sends a single Wha
 
 ### Architecture
 
-
+![Bot Architecture](Bot-Architecture-Whatsapp.png)
 
 ### Tool Choices
 
