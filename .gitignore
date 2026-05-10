@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Playwright browser session (contains login cookies — never commit)
+wa_session/
+
+# Generated PDFs
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
