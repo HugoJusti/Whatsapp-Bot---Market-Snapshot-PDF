@@ -3,6 +3,7 @@
 A Python bot that listens for `/report` in a WhatsApp chat and replies with a Bloomberg-style PDF of the top 10 global stock markets.
 
 **Author:** Hugo Alberto Justisoesetya
+**Video Walk-through link:** 
 
 ---
 
@@ -124,7 +125,7 @@ Useful for iterating on the PDF layout.
 
 ## PDF Screenshot
 
-
+![Market Snapshot PDF](Market_Snapshot_PDF_TestRun.png)
 
 ---
 
