@@ -2,7 +2,12 @@
 
 **Author:** Hugo Alberto Justisoesetya   
 **Date:** 10 May 2026
+---
+
+## Video Link
+
 **Video Walk-through link:** https://drive.google.com/file/d/1nCCLnHC5wXhejdnYv_TMIxHu4gzCHnYO/view?usp=sharing
+
 ---
 
 ## 1. Problem Statement
