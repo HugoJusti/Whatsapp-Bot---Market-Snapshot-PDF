@@ -96,8 +96,6 @@ Additional tests:
 
 ## 5. Experimental Results
 
-*(Fill in after running the bot end-to-end)*
-
 | Step | Expected | Result | Time (approx.) |
 |---|---|---|---|
 | Bot startup | WhatsApp loads | ✓ | ~5 s |
@@ -111,7 +109,9 @@ Additional tests:
 - Euronext 100 (`^N100`) occasionally returns an empty history on weekends; the row is rendered with N/A values.
 - Saudi Tadawul trading days (Sun–Thu) require a custom `trading_days` tuple; without this the market incorrectly shows as closed on Sunday.
 
-*(Add screenshots of the generated PDF and the WhatsApp chat here)*
+![Market Snapshot PDF](Market_Snapshot_PDF_TestRun.png)
+
+![Whatsapp Messages](Whatsapp_Messages.png)
 
 ---
 
