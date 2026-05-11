@@ -4,7 +4,7 @@ A Python bot that listens for `/report` in a WhatsApp chat and replies with a Bl
 
 **Author:** Hugo Alberto Justisoesetya
 
-**Video Walk-through link:** 
+**Video Walk-through link:** https://drive.google.com/file/d/1nCCLnHC5wXhejdnYv_TMIxHu4gzCHnYO/view?usp=sharing
 
 ---
 
